@@ -29,7 +29,7 @@
   ],
   "readmeFilename": "README.md",
   "dependencies": {
-    "asker": "^1.0.0",
+    "asker": "git://github.com/mutantcornholio/asker.git#test",
     "vow": "^0.4.11"
   },
   "devDependencies": {
